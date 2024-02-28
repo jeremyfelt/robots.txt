@@ -1,0 +1,113 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-login.php
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: AwarioBot
+User-agent: AwarioRssBot
+User-agent: AwarioSmartBot
+Disallow: /
+
+User-agent: Baiduspider
+User-agent: Baiduspider-image
+User-agent: Baiduspider-video
+User-agent: Baiduspider-news
+User-agent: Baiduspider-favo
+User-agent: Baiduspider-ads
+User-agent: Baiduspider-cpro
+Disallow: /
+
+User-agent: barkrowler
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+# Bytedance
+#
+# Fairly certain Bytedance does not respect robots.txt, but I'm monitoring.
+User-agent: Bytespider
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: coccocbot
+User-agent: coccocbot-web
+User-agent: coccocbot-image
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+# Google
+#
+# The standard GoogleBot, used to crawl the web for their
+# search results is allowed. I don't see the value in having
+# my content consumed by the others.
+User-agent: Google-Extended
+User-agent: Googlebot-Image
+User-agent: Mediapartners-Google
+User-agent: Adsbot-Google
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ImagesiftBot
+Disallow: /
+
+User-agent: Ioncrawl
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: omgilibot
+Disallow: /
+
+User-agent: omgili
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: SeekportBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SentiBot
+Disallow: /
+
+User-agent: Sogou inst spider
+User-agent: Sogou web spider
+Disallow: /
+
+User-agent: Timpibot
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /
+
+User-agent: Zoominfobot
+Disallow: /
